@@ -26,6 +26,13 @@ In this app, users can:
 
 For the last year I have been working in the company as a front-end developer and to complete daily tasks I was using React with Flow and GraphQL. However, I wanted to expand my knowledge and created this project as an exercise to showcase newly learned Redux and Typescript.
 
+As a task, I also had wireframes which I choose to visualise using [Ant Design](https://ant.design/). Below are the wireframes the project was based on:
+
+![Imgur](https://i.imgur.com/6bIx0UJ.png)
+![Imgur](https://i.imgur.com/qbvgpZN.png)
+![Imgur](https://i.imgur.com/0xzMzfG.png)
+![Imgur](https://i.imgur.com/6pyBqfz.png)
+
 ### Commands
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and the following commands are required to run it:
